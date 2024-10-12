@@ -1,21 +1,18 @@
-# .DataSources
-LSQUD Corporation
+# .LSQUD Corporation
 
-The Reporitory is created most by Files:
-- mp4
-- mp3
-- png
-- jpg
-- pdf
-- zip
-- 7z
-- md
-
-You can find here many things for you:
-
-From Computers, IT, Technology, Androids, Files, Programing.
-
-Into Help, Instructions, Tutorials, Link's, Commands...
-
-We invite you to watch our videos soon will here be abaut Linux&Windows! :)
 This File is updating every 48H :)
+What we offer for you :)
+> Help & Informations
+> Commands for OS
+> Support
+> Software
+> Data Sources
+> Easy to download file's type
+> Updating Every 24H
+> Tutorials & Videos
+
+I invite you too go and look what i have to sell for you all! :)
+Maybe i am starting but ...
+I think you will like it :).
+
+Nice Day!
